@@ -1,0 +1,5 @@
+flask==3.0.3
+fakeredis==2.24.1
+redis==5.0.8
+requests==2.32.3
+pytest==8.3.3
